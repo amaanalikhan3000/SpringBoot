@@ -1,2 +1,2 @@
-# Spring Data JPA Relationships
-Implemented ManyToMany, ManyToOne & OneToMany with databases.
+# Spring Data JPA CriteriaQueries
+Criteria Queries using Criteria Query , Criteria Builder and Predicate
